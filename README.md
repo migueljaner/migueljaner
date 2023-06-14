@@ -16,60 +16,75 @@
       <a href="https://www.youtube.com/channel/UC1dABQSK47tmHBaC0rJAq2Q" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059795-66f4370f-8697-42b5-bcb4-b83ebc10f721.png"  width="45"></a>
 </p>
 
-## 👩‍💻 Programing Languages
+## 🔤 Basics
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+## 👩‍💻 Programing Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-## 🚀 Frameworks & Library
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+## 🚀 Frameworks
+![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-### 📚 Learning
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-
-
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
 ## ⚡ Database
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📋 Current Goals
-- [ ] Learn Flutter. 
-- [ ] Learn multi-threads programing.
-- [ ] Develop a portfolio website.
-- [ ] Learn Amazon Web Services.
-- [ ] Upload Developing Videos.
+## 🖋️ Styles Library 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 📈 GitHub Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=migueljaner&show_icons=true&theme=tokyonight)
+## 📚 Learning
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![ThreeJs](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
-## ⌨️ Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueljaner&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+<br>
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>📋 Current Goals</summary>
+  
+- [x] Learn multi-threads programing.
+  
+- [ ] Develop a portfolio website.
+  
+- [ ] Learn NGINX.
+  
+- [ ] Learn AI & BlockChain.
+  
+- [ ] Learn Amazon Web Services.
+  
+- [ ] Upload Developing Videos.
+  
+</details>
+
+<br>
+
+<details>
+<summary>📈 GitHub Stats </summary>
 <br>
   
-<div style="display: flex;">
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=migueljaner&show_icons=true&theme=tokyonight) 
   
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+</details>
+
+<br>
+
+<details>
+<summary>⌨️ Most Used Languages by File Size  </summary>
+<br>
   
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  
-  </div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueljaner&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
   
 </details>
