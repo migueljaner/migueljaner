@@ -72,16 +72,6 @@
 <br>
 
 <details>
-<summary>📈 GitHub Stats </summary>
-<br>
-  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=migueljaner&show_icons=true&theme=tokyonight) 
-  
-</details>
-
-<br>
-
-<details>
 <summary>⌨️ Most Used Languages by File Size  </summary>
 <br>
   
