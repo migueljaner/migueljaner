@@ -2,9 +2,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/32365541/201091703-58078469-46f3-4888-bd99-e1905bfc34d2.png" alt="mybanner">
 </p>
-<h2>I am a Web Developer and Digital Marketing Technician 💻!</h2>
-
-> I am currently studying cross-platform development! 📚
+<h2>I am a Full-StackWeb Developer 💻!</h2>
 
 ## 📩 Connect
 * Do you have any question or project to work together? Don't hesitate! Coffee's on me ☕.
@@ -12,8 +10,7 @@
 <p align="left" >
       <a href="mailto:migueljanermudoy@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
         <a href="www.linkedin.com/in/miguel-janer-mudoy" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="45"></a>
-    <a href="https://www.instagram.com/mikkejm/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059811-e9699771-f560-4217-b698-d64db9b4fe1c.png"  width="45"></a>
-      <a href="https://www.youtube.com/channel/UC1dABQSK47tmHBaC0rJAq2Q" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059795-66f4370f-8697-42b5-bcb4-b83ebc10f721.png"  width="45"></a>
+    <a href="https://www.instagram.com/en.meneta/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059811-e9699771-f560-4217-b698-d64db9b4fe1c.png"  width="45"></a>
 </p>
 
 ## 🔤 Basics
@@ -64,8 +61,6 @@
 - [ ] Learn AI & BlockChain.
   
 - [ ] Learn Amazon Web Services.
-  
-- [ ] Upload Developing Videos.
   
 </details>
 
